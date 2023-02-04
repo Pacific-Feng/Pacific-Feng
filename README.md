@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Min-Feng, Hsieh</h1>
-<h3 align="center">I am a master student in Tsing-Hua University now</h3>
+<h1 align="center">Hi 👋, I'm Min-Feng Hsieh</h1>
+<h3 align="center">I am a master student in Tsing-Hua University now</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacific-feng&label=Profile%20views&color=0e75b6&style=flat" alt="pacific-feng" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pacific-feng&label=Profile%20views&color=0e75b6&style=flat" alt="pacific-feng" /> </p>
 
 - 🔭 I’m currently working on **ISPD2023**
 
