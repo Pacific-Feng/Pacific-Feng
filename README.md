@@ -1,29 +1,35 @@
-<h1 align="center">Hi 👋, I'm Min-Feng Hsieh</h1>
-<h3 align="center">I am a master student in Tsing-Hua University now</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacific-feng&label=Profile%20views&color=0e75b6&style=flat" alt="pacific-feng" /> </p>
-
-
-- 🔭 I’m currently working on **ISPD2023**
-
-- 🌱 I’m currently learning **Physical Design Automation/IC Design/Deep Learing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pacific-Feng](https://github.com/Pacific-Feng)
-
-- 📝 I regularly write articles on [https://pacificfeng.com/](https://pacificfeng.com/)
-
-- 📫 How to reach me **pacfeng@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%E6%97%BB%E5%B3%B0-%E8%AC%9D-6b7069265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="謝旻峰" height="30" width="40" /></a>
-<a href="https://instagram.com/pacific_feng_blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pacific峰的部落格 | 旅遊 美食 吃喝玩樂" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCebg2kX704ht7OIlmGumX-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pacific峰的部落格" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pacfeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pacfeng" height="30" width="40" /></a>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" dir="auto"><a id="user-content-hi--im-min-feng-hsieh" class="anchor" aria-hidden="true" href="#hi--im-min-feng-hsieh"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Min-Feng Hsieh</h1>
+<h3 align="center" dir="auto"><a id="user-content-i-am-a-master-student-in-tsing-hua-university-now" class="anchor" aria-hidden="true" href="#i-am-a-master-student-in-tsing-hua-university-now"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I am a master student in Tsing-Hua University now</h3> <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/060e4b53a42108fd6f32166fede957f0e41b4722ad955078f3aace6422a677c4/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d706163696669632d66656e67266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/060e4b53a42108fd6f32166fede957f0e41b4722ad955078f3aace6422a677c4/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d706163696669632d66656e67266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="pacific-feng" data-canonical-src="https://komarev.com/ghpvc/?username=pacific-feng&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+<ul dir="auto">
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>ISPD2023</strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Physical Design Automation/IC Design/Deep Learing</strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at <a href="https://github.com/Pacific-Feng">https://github.com/Pacific-Feng</a></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> I regularly write articles on <a href="https://pacificfeng.com/" rel="nofollow">https://pacificfeng.com/</a></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:pacfeng@gmail.com">pacfeng@gmail.com</a></strong></p>
+</li>
+</ul>
+<h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3>
+<p align="left" dir="auto">
+<a href="https://www.linkedin.com/in/%E6%97%BB%E5%B3%B0-%E8%AC%9D-6b7069265/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="謝旻峰" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/pacific_feng_blog" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pacific峰的部落格 | 旅遊 美食 吃喝玩樂" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/channel/UCebg2kX704ht7OIlmGumX-A" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pacific峰的部落格" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.leetcode.com/pacfeng" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pacfeng" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 &ensp;
 &ensp;
-<p><img align="left" style="margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacific-feng&show_icons=true&locale=en&layout=compact" alt="pacific-feng" /></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd834cf26d6525d874d067f128ba90ea4ad70ce39422b1b9545c2df2e3fd76aa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d706163696669632d66656e672673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="left" src="https://camo.githubusercontent.com/bd834cf26d6525d874d067f128ba90ea4ad70ce39422b1b9545c2df2e3fd76aa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d706163696669632d66656e672673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="pacific-feng" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=pacific-feng&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a></p>
 &ensp;
 &ensp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pacific-feng&show_icons=true&locale=en" alt="pacific-feng" /></p>
+<p dir="auto">&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/79d370f356a551888a071c01228573afd26b73281cb30c78381728f2135be12a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d706163696669632d66656e672673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" src="https://camo.githubusercontent.com/79d370f356a551888a071c01228573afd26b73281cb30c78381728f2135be12a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d706163696669632d66656e672673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="pacific-feng" data-canonical-src="https://github-readme-stats.vercel.app/api?username=pacific-feng&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a></p>
 &ensp;
 &ensp;
+</article>
