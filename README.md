@@ -17,7 +17,6 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/pacific-feng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="謝旻峰" height="30" width="40" /></a>
-<p>    </p>
 <a href="https://www.facebook.com/PacFeng?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="謝旻峰" height="30" width="40" /></a>
 <a href="https://instagram.com/pacific_feng_blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pacific峰的部落格 | 旅遊 美食 吃喝玩樂" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@PacificFeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pacific峰的部落格" height="30" width="40" /></a>
